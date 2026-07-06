@@ -1,8 +1,15 @@
 # 👋 Hello, I'm Delicious233
 
-I'm a student developer at Hunan University, building AI-native tools, agent workflows, and small infrastructure systems that I actually use every day.
+I'm a developer building AI-native tools, agent workflows, and small infrastructure systems that I actually use every day.
 
 I like turning messy ideas into working products: CLIs, browser automation, model gateways, monitoring agents, research tooling, and personal productivity systems.
+
+## ⚙️ Tech Stack
+
+- TypeScript / React / Node.js
+- Go for services, gateways, and backend tools
+- Python for automation, research, and data workflows
+- Rust for lightweight CLIs and system utilities
 
 ## 🧩 What I Build
 
@@ -20,7 +27,6 @@ I like turning messy ideas into working products: CLIs, browser automation, mode
 
 ## 💬 About Me
 
-- 🏫 Hunan University
-- 🧠 I care about tools that survive contact with reality
-- 🧪 I prefer small verifiable systems over big vague promises
-- ✨ Motto: build small, verify reality, keep shipping
+- I work mostly across TypeScript, Go, Python, and Rust
+- I enjoy building tools that connect local workflows with real services
+- I care about clean interfaces, useful automation, and operational details
