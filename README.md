@@ -1,32 +1,18 @@
-# 👋 Hello, I'm Delicious233
+# 👋 Hi, I'm Delicious233
 
-I'm a developer building AI-native tools, agent workflows, and small infrastructure systems that I actually use every day.
+I build AI-native developer tools, research systems, and practical infrastructure.
 
-I like turning messy ideas into working products: CLIs, browser automation, model gateways, monitoring agents, research tooling, and personal productivity systems.
+Most of my work sits between AI research and systems engineering: agent workflows, model gateways, evaluation tooling, browser automation, MCP tools, monitoring agents, and local-first utilities.
 
-## ⚙️ Tech Stack
+## Stack
 
-- TypeScript / React / Node.js
-- Go for services, gateways, and backend tools
-- Python for automation, research, and data workflows
-- Rust for lightweight CLIs and system utilities
+TypeScript / React / Node.js · Go · Python · Rust
 
-## 🧩 What I Build
+PyTorch · Docker · PostgreSQL · Redis · GitHub Actions
 
-- 🤖 Agent tools for Codex, Claude Code, browser automation, and MCP workflows
-- 🚪 AI gateways for OpenAI-compatible APIs, routing, quota, and provider ops
-- 🛠️ Local-first utilities that make daily work faster and less fragile
-- 🔬 Research tooling for reproducible AI safety and privacy experiments
-- 📊 Personal systems for finance, monitoring, notes, and ops dashboards
+## Focus
 
-## 🌱 Current Focus
-
-- Making AI agents easier to operate in real projects
-- Building TokenDance / 词元跳动 as an AI-native developer platform
-- Keeping tools practical, inspectable, and deployable
-
-## 💬 About Me
-
-- I work mostly across TypeScript, Go, Python, and Rust
-- I enjoy building tools that connect local workflows with real services
-- I care about clean interfaces, useful automation, and operational details
+- AI agents, tool use, and workflow automation
+- LLM gateways, routing, provider operations, and observability
+- Reproducible research tooling for evaluation, privacy, and safety experiments
+- Systems that are easy to run, inspect, and maintain
