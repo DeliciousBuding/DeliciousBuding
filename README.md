@@ -1,18 +1,13 @@
 # 👋 Hi, I'm Delicious233
 
-I build AI-native developer tools, research systems, and practical infrastructure.
+Coding, learning AI.
 
-Most of my work sits between AI research and systems engineering: agent workflows, model gateways, evaluation tooling, browser automation, MCP tools, monitoring agents, and local-first utilities.
+## Interests
+
+Deep Learning · LLM · Diffusion · Agents · Systems
 
 ## Stack
 
-TypeScript / React / Node.js · Go · Python · Rust
+Go · Python · TypeScript / React / Node.js · Rust
 
-PyTorch · Docker · PostgreSQL · Redis · GitHub Actions
-
-## Focus
-
-- AI agents, tool use, and workflow automation
-- LLM gateways, routing, provider operations, and observability
-- Reproducible research tooling for evaluation, privacy, and safety experiments
-- Systems that are easy to run, inspect, and maintain
+PyTorch · Docker · PostgreSQL · Redis
